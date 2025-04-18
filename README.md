@@ -36,17 +36,17 @@
       <h2>Our Menu</h2>
       <div class="menu-items">
         <div class="item">
-          <img src="images/coffee1.jpg" alt="Espresso">
+          <img src="images/espresso.jpg" alt="Espresso">
           <h3>Espresso</h3>
           <p>Rich, bold, and smooth – the perfect shot to start your day.</p>
         </div>
         <div class="item">
-          <img src="images/coffee2.jpg" alt="Cappuccino">
+          <img src="images/Cappucino.jpg" alt="Cappuccino">
           <h3>Cappuccino</h3>
           <p>Frothy milk and robust coffee, a classic favorite.</p>
         </div>
         <div class="item">
-          <img src="images/coffee3.jpg" alt="Iced Latte">
+          <img src="images/Iced Laatte.jpg" alt="Iced Latte">
           <h3>Iced Latte</h3>
           <p>Chill out with our refreshing and creamy iced latte.</p>
         </div>
